@@ -1,0 +1,12 @@
+export const dialogflowConfig = {
+  "type": "service_account",
+  "project_id": "faq-bot-oytlhp",
+  "private_key_id": "749d9557f4deca4b1499d2992d2ce2f46ee15573",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4/am/8bRTA0i5\nEQ5psk5ZDJVJkxNt7hRLFkJ7Wf7JUUi/lxAW2mouQW2t6ZhEZ6YbGI0RmbsikPG+\n4UwKuPRavaGK2VtfvPLhMUNTQPMaIKlR00Mk92wpOz/wztcCA3SWXw54ksIsQy3D\n7kx6BQaNqqKKW1MooEZGhgh43/pK0v5rnaA9ET1q6rQ6phcZHTuEYoIFwDuvMua5\nJjPaDAZ6kANVLV6qGPAJ3zbwKcSpt+F+aoVtO+yZG3OzlzOI9w+/gQXWQ3h5HYhH\n6i6t6p/OenKy49GJnunWeaPJanrxWlLboW4KzAIi/AWdCZ2cF5Frk86FUQchvB0G\nOkCinIFVAgMBAAECggEAEtgkNp1UlTA8dD28jh/Pw1p4yqnkzMn33z5BP3eHcNKK\n6plk1i8hqdyYY6LsE+vLC++QTz6txXOmbJ9es6jrm2K91fsWR8Zjp3TxOsXe/cZd\n+SvgJx/dMMYMWWd4l4fqlHbSbo3kocWmH9Nijvt8E2pSbG2pJvZMslps+oM2Z/Cy\nAy8V3xo/cF91LfAVBRIbp8/HtTgIi5oQI7HEXhqJnDOX3pZDvOqtlA6HW4VGkjMr\ncv2e46aKSFJMZTY+LcM7nJToFhYIbpxWld+5xvJWuSfXQA+yPDGrumcpECM4/t2E\nAXy+5LfeuhUa9y6lXLY/yWEZhrQmBheiwvVhhvTFcQKBgQDiWQgJ8KXdu3pv7eK9\nrKeAUWyxM8vvGFXOjY/sO44Ebq8hjjNosMbwmkgJGWe/zYz3uPAL3Rj7ATjtwXAk\nZdcXm6ZWI4doyf1d72n+9ABLFx7b++/G5SuIdMu0Z26QPPUgxDzeMKQ5sjHNbrGG\nLMxVsTJBVpMmXXYluQake2pbKwKBgQDROafMqpfpUySWnT3xsOc1X53xwnjo5yMz\njw+a6Yoi61CLLzJRRP/+kGkvmdbz2rhsrfgtvfGiB64w/T+fx3/vjr5wFPkqWTNK\n7pOGvyBCLQ8v80YrAslHdOUsnEJuOqob44UQo8BE6h/Eq8BfZaVAWAbxWcdcJ+j7\nV+7f77xVfwKBgQCSZatBYpilNWEXi/EfZNBhukhmxG2ek0rMcdsom8xbKYu0VFkD\n2XKSo/b7i6cC81u9zavUwIgrsLq1bGuv3v6jklSfWhN2v05Ut0kDUaXu62FWPzjy\nl770XzZx1IQ6XnLdYo9L1oIhnxN/H51KfycaNaWfhPNf2QtVkrqtH/XGSQKBgQC2\nzreMnimpVloLt0weV0FNY0QvronShdI+BGvQIOnvZMe1NQGz/KPoGumtC6/C1YJ6\ngu7rmKD9v9Q1PbFPvBJOj9xZNhoXJGUqvZXtECXxbEluzhKrFf4kD0EGX2mzwlJL\nl9n2Ff2yuRYU0zR8peVjeQZn7te/76cjpUs0ItXdpQKBgDUJ+uE/uzlkdumCNi5H\n6eZuLyCjlYBgfsP/fnTGUR84Ct/yzMkLeqKMQbSyYbmY7gqbTICnSBNcqNhMe0B9\nZXXnzX5XF2pHITm1dRgC1QYgYx361G0P/qIzvwqvlQqpEyFPe3wylCml/ymf1JET\naMunMlhIYisxU8j01gVF8xBi\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-axrjfq@faq-bot-oytlhp.iam.gserviceaccount.com",
+  "client_id": "111486443040337320229",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-axrjfq%40faq-bot-oytlhp.iam.gserviceaccount.com"
+};
